@@ -19,8 +19,6 @@
 
 ## Hi there 👋
 
-### GAME DEVELOPER
-
 ### MY STATS
 <p align="center">
 <a href="https://github.com/balkayunus7">
